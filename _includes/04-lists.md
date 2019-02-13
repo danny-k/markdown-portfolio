@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* San Diego
+  * Cardiff
+  * Beacons
+  * Pipes 
+* OC
+  * Santa Ana River Jetty
+  * Huntington Beach
+  * Seal Beach
